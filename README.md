@@ -17,7 +17,7 @@ https://github.com/HatePK/practicum-android-diploma.git
     
 ## Скриншоты
 <p float="left">
-    <img src="https://github.com/HatePK/practicum-android-diploma/blob/main/Screenshot_20240319_012903.png" width="250"> 
-    <img src="https://github.com/HatePK/practicum-android-diploma/blob/main/Screenshot_20240319_012959.png" width="250"> 
     <img src="https://github.com/HatePK/practicum-android-diploma/blob/main/Screenshot_20240319_013206.png" width="250"> 
+    <img src="https://github.com/HatePK/practicum-android-diploma/blob/main/Screenshot_20240319_012959.png" width="250"> 
+    <img src="https://github.com/HatePK/practicum-android-diploma/blob/main/Screenshot_20240319_012903.png" width="250"> 
 </p> 
