@@ -9,6 +9,8 @@
 
 ## Установка
 
+[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android)](https://github.com/HatePK/practicum-android-diploma/blob/ed9d2351185c2a70989c92081f6dc98ce1d3d143/Career%20Key.apk)
+
 Запуск проекта в Android Studio
 
 ```bash
